@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Pose Estimation/PoseEstimation.py" line="68" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af2ef8a4-4b2c-4f2e-a95a-e75d5e5485b0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Rotation.coverage" NAME="Rotation Coverage Results" MODIFIED="1548081076641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Geometric Transformations of Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$PlottingHistgorams.coverage" NAME="PlottingHistgorams Coverage Results" MODIFIED="1548210837068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Find, Plot, Analyze !!!" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Fourier_Transform_Numpy.coverage" NAME="Fourier_Transform_Numpy Coverage Results" MODIFIED="1548126191101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Transforms in OpenCV/Fourier Transform" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$AdaptiveThreshold.coverage" NAME="AdaptiveThreshold Coverage Results" MODIFIED="1548081570111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Thresholding" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$KNN_OpenCV.coverage" NAME="KNN-OpenCV Coverage Results" MODIFIED="1548297111329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning/K-Nearest Neighbour" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$SaveVideo.coverage" NAME="SaveVideo Coverage Results" MODIFIED="1548124539242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$BRIEF_OpenCV.coverage" NAME="BRIEF_OpenCV Coverage Results" MODIFIED="1548212501490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/BRIEF(Binary Robust Indepedent Elementary Features)" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$DrawCircle_Event.coverage" NAME="DrawCircle_Event Coverage Results" MODIFIED="1548210569092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Threshold.coverage" NAME="Threshold Coverage Results" MODIFIED="1548081442399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Thresholding" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$boxFilter.coverage" NAME="boxFilter Coverage Results" MODIFIED="1548082114956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Epipolar_Geometry.coverage" NAME="Epipolar-Geometry Coverage Results" MODIFIED="1548252332536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Epipolar Geometry" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Data_Multiplr_Features_KMeans.coverage" NAME="Data-Multiplr-Features-KMeans Coverage Results" MODIFIED="1548301989884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning/K-Means Clustering" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$enum.coverage" NAME="enum Coverage Results" MODIFIED="1548124661505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Find, Plot, Analyze !!!" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$FLANN_Macth.coverage" NAME="FLANN-Macth Coverage Results" MODIFIED="1548223993359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$LaplacianPyramid.coverage" NAME="LaplacianPyramid Coverage Results" MODIFIED="1548082679586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Pyramids" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$cannytest.coverage" NAME="cannytest Coverage Results" MODIFIED="1548123867078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Canny Edge Detection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Meanshift_OpenCV.coverage" NAME="Meanshift-OpenCV Coverage Results" MODIFIED="1548240991445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video Analysis/Meanshift and Camshift" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$ChessBoardCalibration.coverage" NAME="ChessBoardCalibration Coverage Results" MODIFIED="1548248523631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$TransandSaveVideo.coverage" NAME="TransandSaveVideo Coverage Results" MODIFIED="1548228816163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$WatershedSplit.coverage" NAME="WatershedSplit Coverage Results" MODIFIED="1548140629785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Segmentation with Watershed Algorithm" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$penDraw.coverage" NAME="penDraw Coverage Results" MODIFIED="1548079814345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Gradients.coverage" NAME="Gradients Coverage Results" MODIFIED="1548082332298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Gradients" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Convexity.coverage" NAME="Convexity Coverage Results" MODIFIED="1548121692638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/More Functions" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$GaussianBlur.coverage" NAME="GaussianBlur Coverage Results" MODIFIED="1548082027817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Binarization.coverage" NAME="Binarization Coverage Results" MODIFIED="1548081820512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Thresholding" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$drawEllipse.coverage" NAME="drawEllipse Coverage Results" MODIFIED="1548079242992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Draw.coverage" NAME="Draw Coverage Results" MODIFIED="1548079160584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Line.coverage" NAME="Line Coverage Results" MODIFIED="1548123346475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Features" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$FLANN_Match.coverage" NAME="FLANN_Match Coverage Results" MODIFIED="1548222959768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$GetROI.coverage" NAME="GetROI Coverage Results" MODIFIED="1548125737981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Histogram Backprojection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$PerspectiveTransform.coverage" NAME="PerspectiveTransform Coverage Results" MODIFIED="1548081313949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Geometric Transformations of Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Boundary.coverage" NAME="Boundary Coverage Results" MODIFIED="1548123666622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operations/Basic Operations on Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Feature_Match_Object_Find.coverage" NAME="Feature-Match-Object-Find Coverage Results" MODIFIED="1548226144777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to ind Objects" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$gui_canny.coverage" NAME="gui_canny Coverage Results" MODIFIED="1548123409459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Canny Edge Detection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$ContoursStart.coverage" NAME="ContoursStart Coverage Results" MODIFIED="1548083381620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Getting Started" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$GoughLineSearch.coverage" NAME="GoughLineSearch Coverage Results" MODIFIED="1548138099960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Hough Line Transform" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$ApplicationofMask.coverage" NAME="ApplicationofMask Coverage Results" MODIFIED="1548124739208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Find, Plot, Analyze !!!" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Convex.coverage" NAME="Convex Coverage Results" MODIFIED="1548083715585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Features" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$HistogramEqualization.coverage" NAME="HistogramEqualization Coverage Results" MODIFIED="1548124980282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Histogram Equalization" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Color_Quatization.coverage" NAME="Color-Quatization Coverage Results" MODIFIED="1548302305802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning/K-Means Clustering" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$INPAINT.coverage" NAME="INPAINT Coverage Results" MODIFIED="1548309805090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Computational Photography/Image Inpainting" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$BackgroundSubtractorMOGFunction.coverage" NAME="BackgroundSubtractorMOGFunction Coverage Results" MODIFIED="1548234922389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video Analysis/Background Subtraction" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Morphlogy.coverage" NAME="Morphlogy Coverage Results" MODIFIED="1548082219395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Morphological Transformations" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Brute_Force_Match_SIFT.coverage" NAME="Brute-Force_Match_SIFT Coverage Results" MODIFIED="1548223073116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$BackgroundSubtractorMOG2Function.coverage" NAME="BackgroundSubtractorMOG2Function Coverage Results" MODIFIED="1548236180305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video Analysis/Background Subtraction" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$OCR_Alpha_OpenCV.coverage" NAME="OCR-Alpha-OpenCV Coverage Results" MODIFIED="1548298537537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning/OCR of Hand-written Data using kNN" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$enumColor.coverage" NAME="enumColor Coverage Results" MODIFIED="1548124687532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Find, Plot, Analyze !!!" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Algorithm_Numpy.coverage" NAME="Algorithm_Numpy Coverage Results" MODIFIED="1548125471155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Histogram Backprojection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Probabilistic_Hough_Transform.coverage" NAME="Probabilistic_Hough_Transform Coverage Results" MODIFIED="1548138109646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Hough Line Transform" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$GrabCutFunction.coverage" NAME="GrabCutFunction Coverage Results" MODIFIED="1548141370226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Interactive Foreground Extraction using GrabCut Algorithm" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$drawRectangle.coverage" NAME="drawRectangle Coverage Results" MODIFIED="1548079303248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$ContoursFeature.coverage" NAME="ContoursFeature Coverage Results" MODIFIED="1548083464475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Features" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Matplot.coverage" NAME="Matplot Coverage Results" MODIFIED="1548123197737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Plotting_2D_Histograms.coverage" NAME="Plotting_2D_Histograms Coverage Results" MODIFIED="1548125250367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/2D Histograms" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$createBackgroundSubtractorKNNFunction.coverage" NAME="createBackgroundSubtractorKNNFunction Coverage Results" MODIFIED="1548236138635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video Analysis/Background Subtraction" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$HDR_OpenCV.coverage" NAME="HDR-OpenCV Coverage Results" MODIFIED="1548312171573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$bgr2rgb.coverage" NAME="bgr2rgb Coverage Results" MODIFIED="1548078629981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$VideoCapture.coverage" NAME="VideoCapture Coverage Results" MODIFIED="1548079082409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$TrackBar.coverage" NAME="TrackBar Coverage Results" MODIFIED="1548079745422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Trackbar as the Color Palette" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Template_Matching_OpenCV.coverage" NAME="Template_Matching_OpenCV Coverage Results" MODIFIED="1548127931262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Template Matching" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Dense_Optical_Flow_OpenCV.coverage" NAME="Dense-Optical-Flow-OpenCV Coverage Results" MODIFIED="1548240842476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video Analysis/Optical Flow" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$HarrisSearch.coverage" NAME="HarrisSearch Coverage Results" MODIFIED="1548143250140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/OpenCV-Python Tutorials Feature Detection and Description Harris Corner Detection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Lucas_Kanade_Optical_Flow_OpenCV.coverage" NAME="Lucas-Kanade_Optical_Flow_OpenCV Coverage Results" MODIFIED="1548240947399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video Analysis/Optical Flow" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Backprojection.coverage" NAME="Backprojection Coverage Results" MODIFIED="1548125651196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/Histogram Backprojection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$FASTDetect.coverage" NAME="FASTDetect Coverage Results" MODIFIED="1548211852115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm for Corner Detection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Approximation.coverage" NAME="Approximation Coverage Results" MODIFIED="1548123315522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Features" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$ORB_OpenCV.coverage" NAME="ORB_OpenCV Coverage Results" MODIFIED="1548213515969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/ORB(Oriented FAST and Rotated BIEF)" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Affine.coverage" NAME="Affine Coverage Results" MODIFIED="1548081153545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Geometric Transformations of Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$drawPolygon.coverage" NAME="drawPolygon Coverage Results" MODIFIED="1548079284338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$canny.coverage" NAME="canny Coverage Results" MODIFIED="1548123078514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Canny Edge Detection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$2D_Histogram_Numpy.coverage" NAME="2D_Histogram_Numpy Coverage Results" MODIFIED="1548125197494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/2D Histograms" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Image_Add.coverage" NAME="Image_Add Coverage Results" MODIFIED="1548241236438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Extreme.coverage" NAME="Extreme Coverage Results" MODIFIED="1548084187375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Properties" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$OCR_OpenCV.coverage" NAME="OCR-OpenCV Coverage Results" MODIFIED="1548297956506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning/OCR of Hand-written Data using kNN" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$SIFTFunction.coverage" NAME="SIFTFunction Coverage Results" MODIFIED="1548208768662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Introduction to SIFT(Scale-Invariant Feature Transform)" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Template_Matching_Multiple_Objects.coverage" NAME="Template_Matching_Multiple_Objects Coverage Results" MODIFIED="1548211107921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Template Matching" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Data_One_Feature_KMeans.coverage" NAME="Data-One-Feature-KMeans Coverage Results" MODIFIED="1548301458079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning/K-Means Clustering" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$GetTime.coverage" NAME="GetTime Coverage Results" MODIFIED="1548080603235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operations/Performance Measurement and Improvement Techniques" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$SURTFunction.coverage" NAME="SURTFunction Coverage Results" MODIFIED="1548210202608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Introduction to SURT(Speeded-Up Robust Features)" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$printText.coverage" NAME="printText Coverage Results" MODIFIED="1548079470236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$OperateByByte.coverage" NAME="OperateByByte Coverage Results" MODIFIED="1548241193342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Blur.coverage" NAME="Blur Coverage Results" MODIFIED="1548082003558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$HoughCircleSearch.coverage" NAME="HoughCircleSearch Coverage Results" MODIFIED="1548138741424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Hough Circle Transform" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$OCR_SVM_OpenCV.coverage" NAME="OCR-SVM-OpenCV Coverage Results" MODIFIED="1548300706992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine Learning/Support Vector Machines(SVM)/OCR of Hand-written Datausing SVM" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Performance_Optimization_DFT.coverage" NAME="Performance_Optimization_DFT Coverage Results" MODIFIED="1548127033129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Transforms in OpenCV/Fourier Transform" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$DepthMap.coverage" NAME="DepthMap Coverage Results" MODIFIED="1548295833583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Depth Map from Stereo Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$meidanBlur.coverage" NAME="meidanBlur Coverage Results" MODIFIED="1548082071741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$minEnclosingCircle.coverage" NAME="minEnclosingCircle Coverage Results" MODIFIED="1548144312250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Features" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$2D_Histogram__OpenCV.coverage" NAME="2D_Histogram _OpenCV Coverage Results" MODIFIED="1548125152699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Histograms in OpenCV/2D Histograms" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Pyramid.coverage" NAME="Pyramid Coverage Results" MODIFIED="1548082685399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Pyramids" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$MouseEvent.coverage" NAME="MouseEvent Coverage Results" MODIFIED="1548210519150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Face_Detection_OpenCV.coverage" NAME="Face-Detection-OpenCV Coverage Results" MODIFIED="1548313085019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$cornerSubPixFunction.coverage" NAME="cornerSubPixFunction Coverage Results" MODIFIED="1548144326922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/OpenCV-Python Tutorials Feature Detection and Description Harris Corner Detection" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$GetandChangeImage.coverage" NAME="GetandChangeImage Coverage Results" MODIFIED="1548079920467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core Operations/Basic Operations on Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Otsu.coverage" NAME="Otsu Coverage Results" MODIFIED="1548081670057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Thresholding" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$image.coverage" NAME="image Coverage Results" MODIFIED="1548078672254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$2D_Convolution.coverage" NAME="2D_Convolution Coverage Results" MODIFIED="1548211019643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Hierarchy.coverage" NAME="Hierarchy Coverage Results" MODIFIED="1548124127187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contours Hierarchy" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$DrawAllContours.coverage" NAME="DrawAllContours Coverage Results" MODIFIED="1548082781638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Getting Started" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$DifferentDepth.coverage" NAME="DifferentDepth Coverage Results" MODIFIED="1548082467611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Gradients" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$ORB_Match.coverage" NAME="ORB_Match Coverage Results" MODIFIED="1548214754956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Feature Matching" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Object_Tracking.coverage" NAME="Object_Tracking Coverage Results" MODIFIED="1548080464614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Changing Colorspaces" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Fourier_Transform_OpenCV.coverage" NAME="Fourier_Transform_OpenCV Coverage Results" MODIFIED="1548126259252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Image Transforms in OpenCV/Fourier Transform" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Shi_TomasiCorner.coverage" NAME="Shi-TomasiCorner Coverage Results" MODIFIED="1548145405277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Feature Detection and Description/Shi-Tomasi Corner Detector &amp; Good Features to Track" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$BilateralFilter.coverage" NAME="BilateralFilter Coverage Results" MODIFIED="1548082141920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$Camshift_OpenCV.coverage" NAME="Camshift-OpenCV Coverage Results" MODIFIED="1548231068617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video Analysis/Meanshift and Camshift" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$drawLine.coverage" NAME="drawLine Coverage Results" MODIFIED="1548079266395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$fastNlMeansDenosingColoredFunction.coverage" NAME="fastNlMeansDenosingColoredFunction Coverage Results" MODIFIED="1548302702352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Computational Photography/Image Denoising" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$matplotlib.coverage" NAME="Matplot Coverage Results" MODIFIED="1548078596059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$minAreaRect.coverage" NAME="minAreaRect Coverage Results" MODIFIED="1548123400189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Features" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$fastNlMeansDenoisingMuotiFunction.coverage" NAME="fastNlMeansDenoisingMuotiFunction Coverage Results" MODIFIED="1548308786342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Computational Photography/Image Denoising" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$ellipse.coverage" NAME="ellipse Coverage Results" MODIFIED="1548084007821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Processing in OpenCV/Contours in OpenCV/Contour Features" />
+    <SUITE FILE_PATH="coverage/OpenCVLearning$PoseEstimation.coverage" NAME="PoseEstimation Coverage Results" MODIFIED="1548249549561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Pose Estimation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HDR-OpenCV.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/HDR-OpenCV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding>
+                <element signature="e#48#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haarcascade_frontalface_default.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/haarcascade_frontalface_default.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haarcascade_eye.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/haarcascade_eye.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Face-Detection-OpenCV.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/Face-Detection-OpenCV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <element signature="e#47#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lena.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/lena.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="fusion_mertens.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/fusion_mertens.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="img3.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img3.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="img2.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img2.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="img1.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img1.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="img0.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img0.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#DistanceTypes</find>
+      <find>matches</find>
+      <find>tv</find>
+      <find>savez</find>
+      <find>rvexs</find>
+      <find>rvecs</find>
+      <find>axis</find>
+      <find>ditance</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OpenCV-Python-Tutorials-Learning" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Image Transforms in OpenCV/Fourier Transform/Performance_Optimization_DFT.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Interactive Foreground Extraction using GrabCut Algorithm/GrabCutFunction.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Morphological Transformations/Morphlogy.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images/2D_Convolution.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images/BilateralFilter.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images/Blur.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images/boxFilter.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images/GaussianBlur.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Smoothing Images/meidanBlur.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Template Matching/Template_Matching_OpenCV.py" />
+        <option value="$PROJECT_DIR$/Image Processing in OpenCV/Template Matching/Template_Matching_Multiple_Objects.py" />
+        <option value="$PROJECT_DIR$/Core Operations/Basic Operations on Images/Boundary.py" />
+        <option value="$PROJECT_DIR$/Core Operations/Basic Operations on Images/GetandChangeImage.py" />
+        <option value="$PROJECT_DIR$/Core Operations/Performance Measurement and Improvement Techniques/GetTime.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/FAST Algorithm for Corner Detection/FASTDetect.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/BRIEF(Binary Robust Indepedent Elementary Features)/BRIEF_OpenCV.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/ORB(Oriented FAST and Rotated BIEF)/ORB_OpenCV.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/ORB_Match.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN_Match.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/Brute-Force_Match_SIFT.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching/FLANN-Macth.py" />
+        <option value="$PROJECT_DIR$/Feature Detection and Description/Feature Matching + Homography to ind Objects/Feature-Match-Object-Find.py" />
+        <option value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/TransandSaveVideo.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Meanshift and Camshift/CamshiftDemo.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Meanshift and Camshift/Meanshift-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Meanshift and Camshift/Camshift-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Optical Flow/Lucas-Janada_Optical_Flow_OpenCV.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Background Subtraction/BackgroundSubtractorMOGFunction.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Optical Flow/Dense-Optical-Flow-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Optical Flow/Lucas-Kanade_Optical_Flow_OpenCV.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Background Subtraction/BackgroundSubtractorMOG2Function.py" />
+        <option value="$PROJECT_DIR$/Video Analysis/Background Subtraction/createBackgroundSubtractorKNNFunction.py" />
+        <option value="$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images/Image_Add.py" />
+        <option value="$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images/OperateByByte.py" />
+        <option value="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/ChessBoardCalibration.py" />
+        <option value="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Pose Estimation/PoseEstimation.py" />
+        <option value="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Epipolar Geometry/Epipolar-Geometry.py" />
+        <option value="$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Depth Map from Stereo Images/DepthMap.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/K-Nearest Neighbour/KNN-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/OCR of Hand-written Data using kNN/OCR-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/OCR of Hand-written Data using kNN/OCR-Alpha-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/Support Vector Machines(SVM)/OCR-SVM-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/Support Vector Machines(SVM)/OCR of Hand-written Datausing SVM/OCR-SVM-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/K-Means Clustering/Data-One-Feature-KMeans.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/K-Means Clustering/Data-Multiplr-Features-KMeans.py" />
+        <option value="$PROJECT_DIR$/Machine Learning/K-Means Clustering/Color-Quatization.py" />
+        <option value="$PROJECT_DIR$/Computational Photography/Image Denoising/fastNlMeansDenosingColoredFunction.py" />
+        <option value="$PROJECT_DIR$/Computational Photography/Image Denoising/fastNlMeansDenoisingMuotiFunction.py" />
+        <option value="$PROJECT_DIR$/Computational Photography/Image Inpainting/INPAINT.py" />
+        <option value="$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/HDR-OpenCV.py" />
+        <option value="$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/Face-Detection-OpenCV.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OpenCVLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenCVLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpenCVLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/penDraw.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\OpenCVLearning\Object Detection\Face Detection using Haar Cascades" />
+      <recent name="E:\Python\OpenCVLearning\Computational Photography\Image Denoising" />
+      <recent name="E:\Python\OpenCVLearning\Machine Learning\K-Means Clustering" />
+      <recent name="E:\Python\OpenCVLearning\Machine Learning\Support Vector Machines(SVM)\OCR of Hand-written Datausing SVM" />
+      <recent name="E:\Python\OpenCVLearning\Machine Learning\OCR of Hand-written Data using kNN" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python\OpenCVLearning\Machine Learning\Support Vector Machines(SVM)\OCR of Hand-written Datausing SVM" />
+      <recent name="E:\Python\OpenCVLearning\Machine Learning\K-Nearest Neighbour\Understanding k-Nearest Neighbour" />
+      <recent name="E:\Python\OpenCVLearning\Machine Learning\K-Nearest Neighbour" />
+      <recent name="E:\Python\OpenCVLearning\Core Operations\Arithmetic Operations on Images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Face-Detection-OpenCV">
+    <configuration name="Draw" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/draw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="DrawCircle_Event" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/DrawCircle_Event.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Face-Detection-OpenCV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/Face-Detection-OpenCV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="HDR-OpenCV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/HDR-OpenCV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="INPAINT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Computational Photography/Image Inpainting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computational Photography/Image Inpainting/INPAINT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Matplot" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images/Matplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MouseEvent" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/MouseEvent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="SaveVideo" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/savevideo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TrackBar" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Trackbar as the Color Palette" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Trackbar as the Color Palette/TrackBar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TransandSaveVideo" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/TransandSaveVideo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="VideoCapture" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Videos/videocapture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="bgr2rgb" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images/bgr2rgb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="drawEllipse" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/drawEllipse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="drawLine" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/drawLine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="drawPolygon" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/drawPolygon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="drawRectangle" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/drawRectangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fastNlMeansDenoisingMuotiFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Computational Photography/Image Denoising" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computational Photography/Image Denoising/fastNlMeansDenoisingMuotiFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fastNlMeansDenosingColoredFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Computational Photography/Image Denoising" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computational Photography/Image Denoising/fastNlMeansDenosingColoredFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="image" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Getting Started with Images/image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="penDraw" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/penDraw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="printText" type="PythonConfigurationType" factoryName="Python">
+      <module name="OpenCVLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Anaconda\Anaconda3\envs\Tesnorflow\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui Features in OpenCV/Drawing Functions in OpenCV/printText.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SaveVideo" />
+      <item itemvalue="Python.TransandSaveVideo" />
+      <item itemvalue="Python.VideoCapture" />
+      <item itemvalue="Python.Draw" />
+      <item itemvalue="Python.DrawCircle_Event" />
+      <item itemvalue="Python.drawEllipse" />
+      <item itemvalue="Python.drawLine" />
+      <item itemvalue="Python.drawPolygon" />
+      <item itemvalue="Python.drawRectangle" />
+      <item itemvalue="Python.MouseEvent" />
+      <item itemvalue="Python.TrackBar" />
+      <item itemvalue="Python.penDraw" />
+      <item itemvalue="Python.printText" />
+      <item itemvalue="Python.bgr2rgb" />
+      <item itemvalue="Python.Matplot" />
+      <item itemvalue="Python.image" />
+      <item itemvalue="Python.fastNlMeansDenosingColoredFunction" />
+      <item itemvalue="Python.fastNlMeansDenoisingMuotiFunction" />
+      <item itemvalue="Python.INPAINT" />
+      <item itemvalue="Python.HDR-OpenCV" />
+      <item itemvalue="Python.Face-Detection-OpenCV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Face-Detection-OpenCV" />
+        <item itemvalue="Python.HDR-OpenCV" />
+        <item itemvalue="Python.INPAINT" />
+        <item itemvalue="Python.fastNlMeansDenoisingMuotiFunction" />
+        <item itemvalue="Python.fastNlMeansDenosingColoredFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af2ef8a4-4b2c-4f2e-a95a-e75d5e5485b0" name="Default" comment="" />
+      <created>1548077658687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548077658687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5010352" side_tool="true" visible="true" weight="0.32877603" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32827586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24965517" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32965517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16276042" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.49896482" weight="0.3294271" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16276042" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.49896482" weight="0.3294271" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24965517" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" sideWeight="0.5010352" side_tool="true" weight="0.32877603" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24965517" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32965517" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32965517" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32827586" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/left02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/left03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/left04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/left05.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/left07.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/left09.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video Analysis/Background Subtraction/createBackgroundSubtractorKNNFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video Analysis/Background Subtraction/BackgroundSubtractorMOG2Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images/messi5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images/ML.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video Analysis/Optical Flow/Lucas-Kanade_Optical_Flow_OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images/OperateByByte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images/Image_Add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video Analysis/Meanshift and Camshift/Meanshift-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video Analysis/Meanshift and Camshift/Camshift-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Video Analysis/Optical Flow/Dense-Optical-Flow-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core Operations/Arithmetic Operations on Images/opencv.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Pose Estimation/B.npz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Anaconda/Anaconda3/envs/Tesnorflow/Lib/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9538">
+          <caret line="526" column="9" selection-start-line="526" selection-start-column="4" selection-end-line="526" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/179248664/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="10016" column="4" selection-start-line="10016" selection-start-column="4" selection-end-line="10016" selection-end-column="4" />
+          <folding>
+            <element signature="e#184#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Camera Calibration/ChessBoardCalibration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Pose Estimation/PoseEstimation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+          <folding>
+            <element signature="e#47#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Epipolar Geometry/left.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Epipolar Geometry/right.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Epipolar Geometry/Epipolar-Geometry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Camera Calibration and 3D Reconstruction/Depth Map from Stereo Images/DepthMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/K-Nearest Neighbour/Understanding k-Nearest Neighbour/KNN-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/K-Nearest Neighbour/OCR of Hand-written Data using kNN/OCR-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/K-Nearest Neighbour/OCR of Hand-written Data using kNN/letter-recognition.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/K-Nearest Neighbour/OCR of Hand-written Data using kNN/OCR-Alpha-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/Support Vector Machines(SVM)/OCR of Hand-written Datausing SVM/OCR-SVM-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/K-Means Clustering/Data-One-Feature-KMeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/K-Means Clustering/Data-Multiplr-Features-KMeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning/K-Means Clustering/Color-Quatization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/Image Denoising/fastNlMeansDenosingColoredFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/Image Denoising/fastNlMeansDenoisingMuotiFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/Image Inpainting/mask2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/Image Inpainting/messi2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/Image Inpainting/INPAINT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/ldr_debevec.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/ldr_robertson.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/fusion_mertens.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img3.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img2.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img1.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/img0.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computational Photography/High Dynamic Range(HDR)/HDR-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#48#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/lena.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/haarcascade_eye.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Detection/Face Detection using Haar Cascades/Face-Detection-OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#47#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
